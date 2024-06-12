@@ -1,0 +1,13 @@
+{
+  "i18n-ally.localesPaths": [
+    "apps/web/src/i18n",
+    "packages/ui/src/i18n",
+    "packages/wallet/src/i18n",
+    "packages/uniswap/src/i18n",
+    "apps/web/src/i18n/locales",
+    "packages/wallet/src/features/language",
+    "packages/wallet/src/i18n/locales",
+    "packages/uniswap/src/i18n/locales",
+    "packages/wallet/src/components/settings/language"
+  ]
+}
